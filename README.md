@@ -27,8 +27,8 @@ This repository provides a complete Python pipeline for processing paired facial
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/niteesh777/DISC_Script.git
+cd DISC_Script
 ```
 
 ### 2. Set up your environment
