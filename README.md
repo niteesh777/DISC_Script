@@ -112,4 +112,4 @@ Upon completion, the following will be generated:
 
 ## 📄 License
 
-MIT License — feel free to adapt or build upon.
+MIT License
