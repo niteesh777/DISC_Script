@@ -1,4 +1,4 @@
-# Disc Analysis Tool: Facial Symmetry Pipeline
+# DISC (Digital Image Speckle Correlation) Analysis Script: Facial Symmetry Pipeline
 
 This repository provides a complete Python pipeline for processing paired facial images to:
 
